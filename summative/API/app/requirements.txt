@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 numpy
 joblib
 pydantic
 scikit-learn
+=======
+fastapi
+uvicorn
+numpy
+joblib
+pydantic
+scikit-learn
+>>>>>>> cc66ab8c329b76a781c0a77049ad05490ec8aa3a
