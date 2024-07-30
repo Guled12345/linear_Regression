@@ -11,3 +11,9 @@ The variables included are:
  6) SkinThickness 
  7) Insulin 
 8) DiabetesPedigreeFunction
+
+#project Structure
+summative/
+├── API/
+├── flutter_app/
+└── linear_regression/
