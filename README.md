@@ -14,6 +14,6 @@ The variables included are:
 
 #project Structure
 summative/
-├── API/
-├── flutter_app/
-└── linear_regression/
+1) ├── API/
+2) ├── flutter_app/
+3) └── linear_regression/
